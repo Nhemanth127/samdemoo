@@ -1,0 +1,6 @@
+#dependencies
+# ignoring large node_modules
+/node_modules
+
+# ignoring .env file which has sensitive data
+/backend/config/config.env
